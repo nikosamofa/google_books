@@ -116,7 +116,7 @@ class App extends Component {
         const options = {
             method: 'GET',
             header: {
-                "Authorization": "",
+                "key": "AIzaSyAlSY85Dls6XWx-ZF71N_MEHlDg7SJYLE4",
                 "Content-Type": "application/json"
             }
         }
